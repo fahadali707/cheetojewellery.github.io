@@ -18,7 +18,7 @@ include('includes/dbconnection.php');
   </head>
   <body id="home">
 
-<?php include_once('includes/header.php');?>
+<?php include_once('includes/header.html');?>
 
 <script src="assets/js/jquery-3.3.1.min.js"></script> <!-- Common jquery plugin -->
 <!--bootstrap working-->
